@@ -1,5 +1,5 @@
 to run in jar:
-  mvn clean install
+  mvn clean install \\
   java -jar .\target\RTreeBenchmark-0.0.1-SNAPSHOT.jar 
 
 
